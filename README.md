@@ -55,10 +55,10 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
   <thead>
     <tr>
       <th width="500px">
-            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zumlabs&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" />    
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=zumlabs&show_icons=true&include_all_commits=true&count_private=true&theme=vue_dark" />    
       </th>
       <th width="500px">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumlabs&hide=CSS,Javascript,HTML&langs_count=6&layout=compact&count_private=true&theme=github_dark" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumlabs&hide=CSS,Javascript,HTML&langs_count=6&layout=compact&count_private=true&theme=vue_dark" />
       </th>
     </tr>
     <tr>
