@@ -58,7 +58,7 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=zumlabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />     
       </th>
       <th width="500px">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumlabs&hide=CSS,Javascript,HTML&langs_count=6&layout=compact&count_private=true&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumlabs&hide=CSS,Javascript,HTML&langs_count=6&theme=vue-dark" />
       </th>
     </tr>
     <tr>
